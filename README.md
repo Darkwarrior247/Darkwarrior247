@@ -9,6 +9,8 @@
   Welcome to my GitHub profile! I love coding, learning new technologies, and contributing to open source. Let's build something amazing together!
 </h4>
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Darkwarrior247/Darkwarrior247/main/Assets/matrix.svg" alt="Matrix Animation" height="300"/>
 </p>
