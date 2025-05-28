@@ -10,7 +10,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkwarrior247/Darkwarrior247/main/matrix.svg" alt="Matrix Animation" height="300"/>
+  <img src="https://raw.githubusercontent.com/Darkwarrior247/Darkwarrior247/main/Assets/matrix.svg" alt="Matrix Animation" height="300"/>
 </p>
 
 
